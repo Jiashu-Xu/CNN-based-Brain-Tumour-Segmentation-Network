@@ -6,5 +6,7 @@ get dataset and pre-trained models
 提取码：2004
 
 A CNN-based-Brain-Tumour-Segmentation-Network based on u-net
+
 first run classification to classify whether it has a tumor or not
+
 second run segmentation(基本完成版.ipynb) to cut out the tumor
